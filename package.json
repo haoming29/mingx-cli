@@ -1,0 +1,13 @@
+{
+  "name": "mingx-cli",
+  "version": "1.0.0",
+  "description": "A command line interface to create frontend project skeleton",
+  "main": "index.js",
+  "repository": "git@github.com:Techming/mingx-cli.git",
+  "author": "techming <hmeng29@wisc.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "yargs": "^17.3.1"
+  }
+}
